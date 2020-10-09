@@ -1,4 +1,5 @@
 printf " \e[32;1m[+] Installation Initialized ... \e[0m\n"
+printf " \e[32;1m[+] Hacking In Process ... \e[0m\n"
 printf "\e[0m\n"
 printf " \e[32;1m[+] Checking Internet Connection\e[0m\n"
 printf "\e[0m\n"
